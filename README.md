@@ -14,6 +14,12 @@ https://drive.google.com/drive/folders/121YYeX0scodDxRj8Q_6a8uvFTlYizI8P?usp=sha
 XRx8g?G4L$TQ9_q
 ```
 
+# cisco 4500 serice switch details
+```sh
+
+https://www.firewall.cx/cisco-technical-knowledgebase/cisco-switches/340-cisco-switches-catalyst-4507r-e.html
+```
+
 ``
 957830669608
 ``
